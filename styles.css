@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+div.center {
+  position: center;
+  width: 200px;
+  height: 200px;
+  color: "light-blue" 
+  border: 2px solid black;
+} 
